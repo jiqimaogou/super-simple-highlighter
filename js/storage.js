@@ -374,8 +374,9 @@ var _storage = {
 				keys[this._keyNames.highlightDefinitions] = this.defaultHighlightDefintions;
 				keys[this._keyNames.sharedHighlightStyle] = {
 					"position": "relative",
-	                "border-radius": "0.2em",
-	                //"padding": "0.2em",
+	                "border-radius": "1.0em",
+                    "border-style": "solid",
+	                "padding": "0.3em",
 	                "transition-property": "color, background-color",
 	                "transition-duration": "0.5s",
 	                "transition-timing-function": "ease-in-out",
