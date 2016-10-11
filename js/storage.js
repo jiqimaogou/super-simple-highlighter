@@ -376,6 +376,7 @@ var _storage = {
 					"position": "relative",
 	                "border-radius": "1.0em",
                     "border-style": "solid",
+					"border-width" : "thin",
 	                "padding": "0.3em",
 	                "transition-property": "color, background-color",
 	                "transition-duration": "0.5s",
